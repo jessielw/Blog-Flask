@@ -1,2 +1,4 @@
-
 *.db
+.idea/
+.vscode/
+*__pycache__/
