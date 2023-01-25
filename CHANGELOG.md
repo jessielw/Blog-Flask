@@ -16,3 +16,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 
 - Image not showing up when user views all of their posts
+
+### Changed
+- Refactored/organized code
