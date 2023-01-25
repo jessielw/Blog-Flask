@@ -18,6 +18,8 @@ You can just execute run_app.py to start the webserver in a windows/linux/mac en
 
 ## Docker Usage 
 
+`https://hub.docker.com/repository/docker/jlw4049/flask_blog/`
+
 You must pass all of the "Required enviormental variables" to your docker.
 
 Additionally if you are hosting this in a subfolder and using a webserver such as gunicorn you must pass an additional variable script_name
